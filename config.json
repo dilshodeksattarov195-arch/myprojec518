@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartrync",
+        "uuid": 2286970,
+        "checksum": "xfws4p"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
